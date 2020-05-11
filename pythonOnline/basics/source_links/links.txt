@@ -1,0 +1,18 @@
+
+python and its interpreted meaning
+
+https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
+https://data-flair.training/blogs/python-interpreter/
+https://www.programiz.com/article/difference-compiler-interpreter
+https://techdifferences.com/difference-between-compiler-and-interpreter.html
+
+
+full python tutorials
+
+http://books.saturngod.net/programming_basic/index.html
+https://www.w3schools.com/python/
+https://www.tutorialspoint.com/python/index.htm
+https://www.learnpython.org/
+https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+
+more and more tutorials available on google

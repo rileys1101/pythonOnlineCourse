@@ -49,7 +49,7 @@ while 1:
 		if(loggedIn == False):
 			print('please register first')
 		else:
-			print('the process of posts fo on')
+			print('the process of posts go on')
 
 	elif(option == 4):
 		print(posts)

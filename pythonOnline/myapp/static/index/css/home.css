@@ -1,0 +1,22 @@
+body{
+display:flex;
+flex-direction:column;
+
+}
+.container{
+margin-bottom:5px;
+width : 80%;
+height : 150px;
+background-color:#EA8515;
+padding:10px;
+border-radius:5px;
+}
+
+h1{
+    color:#fff
+}
+
+p{
+    padding:5px;
+
+}
